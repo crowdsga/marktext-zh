@@ -13,7 +13,20 @@ git clone https://github.com/marktext/marktext.git
 
 cd marktext
 
-安装项目依赖 yarn install 
-开始编译 yarn run build
+安装项目依赖 \
+yarn install 
+开始编译 \
+yarn run build
 （RPM包还需要安装依赖，sudo apt-get install rpm）
-编译好的程序在build
+编译好的程序在build \
+
+安装ts依赖
+yarn add ts-node
+yarn add typescript
+设置语言
+windows：
+set lang=zh-cn
+mac or linux:
+export lang=zh-cn
+编译
+yarn build
