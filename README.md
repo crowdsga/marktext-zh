@@ -6,7 +6,7 @@ sudo apt update \
 sudo apt install build-essential clang flex bison g++ gawk gcc-multilib g++-multilib gettext git libncurses-dev libssl-dev python3-distutils rsync unzip zlib1g-dev file wget
 
 Python 版本大于v3.6 
-Node.js 版本大于v16 但小于v17，可以装16.20 
+Node.js 版本大于v16 但小于v17，可以装16.20 \
 npm install yarn
 
 git clone https://github.com/marktext/marktext.git
