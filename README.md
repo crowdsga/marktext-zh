@@ -1,8 +1,8 @@
 # 说明
 fork marktext/marktext的develop分支，用chinayangxiaowei/marktext-chinese-language-pack的替换来进行汉化
 # 如何构建
-先装好依赖
-sudo apt update
+先装好依赖 \
+sudo apt update \
 sudo apt install build-essential clang flex bison g++ gawk \
 gcc-multilib g++-multilib gettext git libncurses-dev libssl-dev \
 python3-distutils rsync unzip zlib1g-dev file wget
